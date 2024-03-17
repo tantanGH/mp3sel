@@ -29,6 +29,9 @@ Human68k用の汎用ファイラではMP3/FLACのタグを扱えるものがま�
 
 MP3SEL.X自体は68030専用ではありませんが、HMP3P.X/HFLAP.Xが68030専用のため、68030モードでご使用下さい。
 
+スペースを含むファイル名を使う場合は、TcbnErik氏によるTwentyOne.sysの最新版を組み込む必要があります。
+- [TwentyOne.sys/VTwentyOne.sys](https://github.com/kg68k/twentyonesys/releases/tag/v136c14-p11)
+
 ---
 
 ## インストール
