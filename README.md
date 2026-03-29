@@ -123,7 +123,7 @@ NONE -> ALBUM -> SHUFFLE -> SINGLE -> SINGLE2 -> SINGLE3 -> NONE -> ... と押�
 
 ## History
 
-* 0.5.0 (2026/03/29) ... libj,libutf8,libutf16,libpcm8a,libpcm8pp の各ライブラリを使ってビルド(機能変更なし)
+* 0.5.0 (2026/03/29) ... libj,libutf8,libutf16,libpcm8a,libpcm8pp,libhimem の各ライブラリを使ってビルド(機能変更なし)
 * 0.4.0 (2026/03/20) ... ビルド環境をelf2x68kに移行(機能変更なし)
 * 0.3.4 (2026/03/15) ... FLACの再生が正常に開始できない場合があったのを修正
 * 0.3.3 (2026/03/14) ... デフォルトバッファサイズはプレーヤー側に委ねるようにした
