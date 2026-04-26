@@ -123,6 +123,7 @@ NONE -> ALBUM -> SHUFFLE -> SINGLE -> SINGLE2 -> SINGLE3 -> NONE -> ... と押�
 
 ## History
 
+* 0.6.1 (2026/04/26) ... MP3 ID3 v2.2 タグ対応
 * 0.6.0 (2026/04/10) ... 子プロセス呼び出し方法を変更しメモリ削減(機能変更なし)
 * 0.5.0 (2026/03/29) ... libj,libutf8,libutf16,libpcm8a,libpcm8pp,libhimem の各ライブラリを使ってビルド(機能変更なし)
 * 0.4.0 (2026/03/20) ... ビルド環境をelf2x68kに移行(機能変更なし)
